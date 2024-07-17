@@ -1,1 +1,1 @@
-[![烈焰清风](https://img.qfwl.tk/file/180676d76f0bd14023166.jpg)](https://github.com/wanpinhuan)
+[![烈焰清风](https://img.qfwl.tk/file/13245185b6e2757d19aba.jpg)](https://github.com/wanpinhuan)
