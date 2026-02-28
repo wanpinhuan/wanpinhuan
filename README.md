@@ -10,9 +10,8 @@
 ![:name](https://count.getloli.com/@wanpinhuan?name=wanpinhuan&theme=ai-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&prefix=0)
  -->
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanpinhuan&hide=contribs,prs)
-
-
+ 
+<!-- 这里是被注释的内容，不会显示在最终文档中，下面是需要显示的内容-->
 <div align="center">
   <a href="https://github.com/wanpinhuan">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=50&lines=Hi+there%2C+I'm+wanpinhuan;Dev+%26+Tech+Enthusiast;Focus+on+Linux+%26+Docker+%26+NAS" alt="Typing SVG" />
