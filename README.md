@@ -26,6 +26,10 @@
 
 <br/>
 
+<!-- 蓝色动态分割线 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="800" height="20" style="filter: hue-rotate(210deg);"/>
+</div>
 ## 📊 GitHub Stats
 <div align="center">
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=wanpinhuan&theme=github-dark&hide_border=true" />
@@ -44,6 +48,11 @@
 </div>
 
 <br/>
+
+<!-- 蓝色动态分割线 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="800" height="20" style="filter: hue-rotate(210deg);"/>
+</div>
 
 <h2 align="center">访客数</h2>
 
