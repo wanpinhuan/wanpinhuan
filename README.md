@@ -28,8 +28,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wanpinhuan&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=wanpinhuan&theme=github-dark&hide_border=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=wanpinhuan&theme=github-dark&hide_border=true" />
 </div>
 
 <br/>
