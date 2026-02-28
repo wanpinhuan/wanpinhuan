@@ -49,3 +49,5 @@
 
 ![:name](https://count.getloli.com/@wanpinhuan?name=wanpinhuan&theme=ai-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&prefix=0)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanpinhuan&commits_year=2020)
+
