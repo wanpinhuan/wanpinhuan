@@ -43,13 +43,13 @@
   <b>Stay curious, keep coding.</b>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</div>
-
 <br/>
 
 <h2 align="center">访客数</h2>
 
 ![:name](https://count.getloli.com/@wanpinhuan?name=wanpinhuan&theme=ai-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&prefix=0)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</div>
 
