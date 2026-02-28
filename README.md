@@ -21,7 +21,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,bash,github,vscode,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,bash,github,vscode,ubuntu,nginx,mysql,python" />
 </div>
 
 <br/>
