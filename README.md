@@ -45,4 +45,7 @@
   <b>Stay curious, keep coding.</b>
 </div>
 
+<h2 align="center">访客数</h2>
+
+![:name](https://count.getloli.com/@wanpinhuan?name=wanpinhuan&theme=ai-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&prefix=0)
 
