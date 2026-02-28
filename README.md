@@ -35,9 +35,15 @@
 <br/>
 
 ## 📌 About Me
+- 🌱 正在深入：**全栈开发、云服务、容器化、自动化部署**
 - 🔧 专注：**Linux / Docker / 服务器 / 私有化部署**
 - 🎯 兴趣：**NAS 折腾、家庭影音、自动化运维**
+- 💬 可聊：技术架构、Docker、Linux、建站、全栈开发
 - 📫 联系我：`wanpinhuan@163.com`
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</div>
 
 <br/>
 
