@@ -46,7 +46,7 @@
 
 <br/>
 
-<div align="center">
+<div style="text-align: left; margin-left: 0;">
   <b>Stay curious, keep coding.</b>
 </div>
 
