@@ -42,10 +42,6 @@
 
 <br/>
 
-<!-- 蓝色动态分割线 -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="800" height="20" style="filter: hue-rotate(210deg);"/>
-</div>
 
 ## 📊 GitHub Stats
 <div align="center">
