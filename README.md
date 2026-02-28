@@ -37,6 +37,11 @@
 
 <br/>
 
+<!-- 蓝色动态分割线 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="800" height="20" style="filter: hue-rotate(210deg);"/>
+</div>
+
 ## 📌 About Me
 - 🌱 正在深入：**全栈开发、云服务、容器化、自动化部署**
 - 🔧 专注：**Linux / Docker / 服务器 / 私有化部署**
