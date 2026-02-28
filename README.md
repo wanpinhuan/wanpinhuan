@@ -39,8 +39,9 @@
 - 🎯 兴趣：**NAS 折腾、家庭影音、自动化运维**
 - 💬 可聊：技术架构、Docker、Linux、建站、全栈开发
 - 📫 联系我：`wanpinhuan@163.com`
-
-      Stay curious, keep coding.
+<div style="text-align: left; margin-left: 0;">
+  <b>Stay curious, keep coding.</b>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
