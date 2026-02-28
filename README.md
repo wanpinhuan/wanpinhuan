@@ -12,13 +12,29 @@
 
  
 <!-- 这里是被注释的内容，不会显示在最终文档中，下面是需要显示的内容-->
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/wanpinhuan">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=50&lines=Hi+there%2C+I'm+wanpinhuan;Dev+%26+Tech+Enthusiast;Focus+on+Linux+%26+Docker+%26+NAS" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
+-->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4361ee,100:3a0ca3&height=110&section=header&text=wanpinhuan&fontSize=55&fontColor=fff&animation=twinkling"/>
+</div>
+
+<h2 align="center">Full Stack Engineer | Builder | Creator</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=4361ee&center=true&vCenter=true&width=620&height=45&lines=Linux+%7C+Docker+%7C+Cloud+%7C+NAS;Self-hosted+%26+Automation;Always+building+something+new"/>
+</div>
+
+<!-- 蓝色动态分割线 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="800" height="20" style="filter: hue-rotate(210deg);"/>
+</div>
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,git,bash,github,vscode,ubuntu,nginx,mysql,python,md,ai,apple" />
